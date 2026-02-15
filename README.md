@@ -1,27 +1,135 @@
-<h1 align="center">Hi 👋, I'm Jabran Haider</h1>
-<h3 align="center">Flutter Engineer | ASP .net | Dot Net Core | Fintech | Clean Architecture, Bloc/Cubit, GetX | Firebase, REST APIs, CI/CD | Web RTC, live chat, in-app purchases</h3>
+<!-- Animated Header -->
+<h1 align="center">Hi, I'm Jabran 👋</h1>
+<h3 align="center">Software Engineer • .NET • Flutter • IoT • Clean Architecture Advocate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shifu-devs&label=Profile%20views&color=0e75b6&style=flat" alt="shifu-devs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shifu-devs" alt="shifu-devs" /></a> </p>
-
-- 🔭 I’m currently working on [Manafa Business](https://apps.apple.com/us/app/manafa-business/id6476872737)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/jabran-haider/](https://www.linkedin.com/in/jabran-haider/)
-
-- 📫 How to reach me **jabran.haider9842@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jabran-haider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jabran-haider" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/64200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="64200" height="30" width="40" /></a>
+<p align="center">
+Building scalable systems, cross-platform apps, and real-world tech that performs.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shifu-devs&show_icons=true&locale=en&layout=compact" alt="shifu-devs" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shifu-devs&show_icons=true&locale=en" alt="shifu-devs" /></p>
+I'm a Software Engineer specializing in **.NET backend systems** and **Flutter cross-platform applications**, focused on building secure, scalable, and high-performance products.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shifu-devs&" alt="shifu-devs" /></p>
+I design RESTful APIs, optimize databases, implement clean architecture, and ship production-grade mobile apps used by real users. I enjoy solving complex engineering problems, integrating hardware + software, and turning ideas into reliable systems.
+
+**Focus areas**
+- Fintech & secure backend systems
+- Cross-platform mobile engineering
+- Real-time communication apps
+- Embedded + IoT integrations
+- Performance optimization & scalability
+
+> I like building products that people actually depend on.
+
+---
+
+## 🛠 Skills & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=dotnet,flutter,dart,python,angular,git,github,firebase,mysql" />
+
+</p>
+
+**Core Stack**
+- .NET 6 / .NET 8
+- Flutter & Dart (BLoC / Cubit)
+- Python
+- Angular
+- REST APIs & Clean Architecture
+
+**Systems & Hardware**
+- Embedded systems
+- ESP32 / IoT
+- BLE integrations
+- Real-time communication
+
+**Cloud & Tools**
+- Firebase
+- Google Cloud services
+- SQL / MySQL / SQLite
+- CI/CD pipelines
+- AWS S3 / cloud storage
+
+---
+
+## 💼 Experience Snapshot
+
+**Software Engineer — Fintech & Backend Systems**
+- Designed secure REST APIs powering production financial apps
+- Optimized performance with caching & async architecture
+- Implemented authentication, authorization, and data security layers
+- Built scalable Flutter apps using Clean Architecture
+- Integrated payments, real-time data, and cloud services
+- Delivered high-traffic apps with strong performance stability
+
+**Mobile Engineering**
+- Cross-platform apps with BLoC/Cubit architecture
+- Real-time chat, audio/video, and hardware integrations
+- In-app purchases & subscription systems
+- Sensor + device communication
+
+---
+
+## 🧩 Featured Projects
+
+> Production apps used by real users
+
+🔹 **Fintech Investment Platform**  
+Secure onboarding, automated investments, real-time tracking
+
+🔹 **Business Networking Platform**  
+Marketplace + ads + job listings ecosystem
+
+🔹 **Health Tech App**  
+Personalized wellness blueprints & tracking
+
+🔹 **Blockchain Wallet**  
+Multi-chain crypto wallet + encrypted messaging
+
+_(Project cards can be added here as pinned repos)_
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/jabran-haider/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:jabran.haider9842@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Side
+
+I enjoy building systems where **mobile apps meet hardware**, fintech meets performance engineering, and clean architecture meets real-world scale.
+
+Always experimenting. Always shipping.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile
+</p>
