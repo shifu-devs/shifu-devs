@@ -1,135 +1,143 @@
-<!-- Animated Header -->
-<h1 align="center">Hi, I'm Jabran 👋</h1>
-<h3 align="center">Software Engineer • .NET • Flutter • IoT • Clean Architecture Advocate</h3>
+<!-- ================== Header & Intro ================== -->
+
+<h1 align="center">👋 Hi, I'm Jabran Haider</h1>
+<h3 align="center">Software Engineer | Flutter • .NET • Python • Cloud & IoT Enthusiast</h3>
 
 <p align="center">
-Building scalable systems, cross-platform apps, and real-world tech that performs.
+  <a href="https://www.linkedin.com/in/jabran-haider/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jabran.haider9842@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923071528048">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Software Engineer specializing in **.NET backend systems** and **Flutter cross-platform applications**, focused on building secure, scalable, and high-performance products.
+I’m a passionate **Software Engineer** with a focus on building scalable systems, mobile apps, and real-world integrations.  
+I thrive on solving engineering challenges with clean, efficient, and maintainable code.
 
-I design RESTful APIs, optimize databases, implement clean architecture, and ship production-grade mobile apps used by real users. I enjoy solving complex engineering problems, integrating hardware + software, and turning ideas into reliable systems.
+🔹 I build backend systems in **.NET & Python**  
+🔹 I craft beautiful cross-platform user experiences with **Flutter**  
+🔹 I integrate hardware and cloud using **ESP32/IoT** and scalable tools  
+🔹 I leverage databases, cloud platforms, and APIs to power real products
 
-**Focus areas**
-- Fintech & secure backend systems
-- Cross-platform mobile engineering
-- Real-time communication apps
-- Embedded + IoT integrations
-- Performance optimization & scalability
-
-> I like building products that people actually depend on.
+Outside of coding, I enjoy building things that make an impact, learning emerging tech, and collaborating on open source.
 
 ---
 
 ## 🛠 Skills & Technologies
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,flutter,dart,python,angular,git,github,firebase,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,csharp,flutter,dart,python,mongodb,mysql,postman,figma,azure,gcp,docker,kubernetes,github,git" />
 </p>
 
-**Core Stack**
-- .NET 6 / .NET 8
-- Flutter & Dart (BLoC / Cubit)
-- Python
-- Angular
-- REST APIs & Clean Architecture
+### 💡 Expertise
 
-**Systems & Hardware**
-- Embedded systems
-- ESP32 / IoT
-- BLE integrations
-- Real-time communication
+**Languages**
+- C, C++, C#
+- Python, Dart (Flutter)
 
-**Cloud & Tools**
-- Firebase
-- Google Cloud services
-- SQL / MySQL / SQLite
-- CI/CD pipelines
-- AWS S3 / cloud storage
+**Frontend / UI**
+- Flutter (BLoC / Provider)
+- Figma (Design & Prototyping)
 
----
+**Backend & Databases**
+- .NET (Web APIs, Clean Architecture)
+- MongoDB, SQL
+- REST / JSON / API design
 
-## 💼 Experience Snapshot
+**Cloud & DevOps**
+- Azure
+- Google Cloud Platform
+- Docker, Kubernetes
+- CI/CD / GitHub Actions
 
-**Software Engineer — Fintech & Backend Systems**
-- Designed secure REST APIs powering production financial apps
-- Optimized performance with caching & async architecture
-- Implemented authentication, authorization, and data security layers
-- Built scalable Flutter apps using Clean Architecture
-- Integrated payments, real-time data, and cloud services
-- Delivered high-traffic apps with strong performance stability
-
-**Mobile Engineering**
-- Cross-platform apps with BLoC/Cubit architecture
-- Real-time chat, audio/video, and hardware integrations
-- In-app purchases & subscription systems
-- Sensor + device communication
+**Tools**
+- Git, GitHub
+- Postman
+- VS Code, Rider
 
 ---
 
-## 🧩 Featured Projects
+## 🚀 Experience Highlights
 
-> Production apps used by real users
+- Designed and implemented **secure REST APIs** using .NET  
+- Built **scalable mobile applications** with Flutter  
+- Integrated hardware systems using embedded IoT tech  
+- Worked on real-time applications and backend services  
+- Optimized performance across devices and services  
+- Collaborated with cross-functional teams to deliver on deadlines
 
-🔹 **Fintech Investment Platform**  
-Secure onboarding, automated investments, real-time tracking
+---
 
-🔹 **Business Networking Platform**  
-Marketplace + ads + job listings ecosystem
+## 🧠 Featured Projects
 
-🔹 **Health Tech App**  
-Personalized wellness blueprints & tracking
+Here are some apps and products I’ve built that are live in app stores:
 
-🔹 **Blockchain Wallet**  
-Multi-chain crypto wallet + encrypted messaging
+### 📱 Mobile Apps
+- **App name 1**  
+  🔗 [App Store](#) | 🔗 [Play Store](#)
 
-_(Project cards can be added here as pinned repos)_
+- **App name 2**  
+  🔗 [App Store](#) | 🔗 [Play Store](#)
+
+- **App name 3**  
+  🔗 [App Store](#) | 🔗 [Play Store](#)
+
+> Replace placeholder links with real URLs from your CV.
+
+---
+
+## 📄 Research & Publications
+
+📘 **Title of Research Paper**  
+➡️ [View Research Paper](#)  
+*(Include multiple entries if needed from your CV)*
+
+> Replace the link with your actual research link from your CV.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/shifu-devs">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=shifu-devs&show_icons=true&theme=tokyonight&include_all_commits=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shifu-devs&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=shifu-devs&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🤝 Let’s Connect
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/jabran-haider/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:jabran.haider9842@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
+  <a href="https://www.linkedin.com/in/jabran-haider/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:jabran.haider9842@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/923071528048">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## ⚡ Fun Side
+## ⚡ Fun Fact
 
-I enjoy building systems where **mobile apps meet hardware**, fintech meets performance engineering, and clean architecture meets real-world scale.
+I love exploring the intersection of **mobile apps, cloud services, and embedded systems** — building products that are both functional and delightful.
 
-Always experimenting. Always shipping.
+Thanks for stopping by! ✨
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile
-</p>
