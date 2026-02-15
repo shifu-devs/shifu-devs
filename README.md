@@ -34,7 +34,7 @@ I enjoy solving engineering problems where **mobile meets backend**, and **softw
 ## 🛠 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,csharp,flutter,dart,python,mongodb,mysql,postman,figma,azure,gcp,docker,kubernetes,git,github" />
+  <img src="https://skillicons.dev/icons?i=dotnet,flutter,dart,c,cpp,csharp,python,mongodb,mysql,postman,figma,azure,gcp,docker,kubernetes,git,github" />
 </p>
 
 **Core Stack**
